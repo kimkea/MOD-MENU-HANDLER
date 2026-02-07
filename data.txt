@@ -4,8 +4,8 @@
     {
       "name": "KEAPATOOTIE DELUXE",
       "status": "ONLINE",
-      "lib_name": "libsingularity.so",
-      "download_url": "https://keapatootie.x10.mx/AgonyLib/libsingularity.so",
+      "lib_name": "libserenity.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libserenity.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
