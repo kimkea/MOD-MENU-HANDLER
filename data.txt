@@ -17,7 +17,7 @@
     },
     {
       "name": "NEBULA DELUXE [SKINHACKS]",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libnebula.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libnebula.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
