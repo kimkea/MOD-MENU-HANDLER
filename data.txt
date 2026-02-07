@@ -9,8 +9,8 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "SHINEA ",
-      "status": "ONLINE", 
+      "name": "SHINEA FREE MOD",
+      "status": "OFFLINE", 
       "lib_name": "libvoidcloak.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libvoidcloak.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
