@@ -4,22 +4,8 @@
     {
       "name": "KEAPATOOTIE DELUXE",
       "status": "ONLINE",
-      "lib_name": "libserenity.so",
-      "download_url": "https://keapatootie.x10.mx/AgonyLib/libserenity.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "SHINEA FREE MOD",
-      "status": "OFFLINE", 
-      "lib_name": "libvoidcloak.so",
-      "download_url": "https://keapatootie.x10.mx/AgonyLib/libvoidcloak.so",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
-    },
-    {
-      "name": "NEBULA DELUXE [SKINHACKS]",
-      "status": "MAINTENANCE",
-      "lib_name": "libnebula.so",
-      "download_url": "https://keapatootie.x10.mx/AgonyLib/libnebula.so",
+      "lib_name": "libtranquility.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
