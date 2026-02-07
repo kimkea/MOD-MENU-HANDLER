@@ -1,0 +1,26 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "SINGULARITY DELUXE",
+      "status": "ONLINE",
+      "lib_name": "libsingularity.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libsingularity.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "VOIDCLOACK DELUXE",
+      "status": "ONLINE",
+      "lib_name": "libvoidcloak.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libvoidcloak.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "name": "NEBULA DELUXE [SKINHACKS]",
+      "status": "ONLINE",
+      "lib_name": "libnebula.so",
+      "download_url": "https://keapatootie.x10.mx/AgonyLib/libnebula.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
