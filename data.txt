@@ -9,7 +9,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "VOIDCLOACK DELUXE",
+      "name": "SHINEA DELUXE",
       "status": "ONLINE", 
       "lib_name": "libvoidcloak.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libvoidcloak.so",
