@@ -9,7 +9,7 @@
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KEAPATOOTIE FREE [WITH SKINHACKS}",
+      "name": "KEAPATOOTIE FREE [WITH SKINHACKS]",
       "status": "ONLINE",
       "lib_name": "libtranquility.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libanguish.so",
