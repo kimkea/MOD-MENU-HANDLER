@@ -3,21 +3,21 @@
   "systems": [
     {
       "name": "KEAPATOOTIE DELUXE",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libtranquility.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KEAPATOOTIE FREE",
+      "name": "KEAPATOOTIE FREE [WITH SKINHACKS}",
       "status": "ONLINE",
       "lib_name": "libtranquility.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libanguish.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
-      "name": "KEAPATOOTIE MELANCHOLY",
-      "status": "ONLINE",
+      "name": "KEAPATOOTIE FREE [NO SKINHACKS]",
+      "status": "MAINTENANCE",
       "lib_name": "libtranquility.so",
       "download_url": "https://keapatootie.x10.mx/AgonyLib/libtranquility.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
