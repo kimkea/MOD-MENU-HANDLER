@@ -2,8 +2,7 @@
   "menu_title": "KEAPATOOTIE LOADER",
   
   "DELUXE": [
-    { "hash": "9l8227+HaWIJ9kkGwDNurThUSof2RLs4o0HRPmwbMMQ=", "expiry": "2027-03-10" },
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" },
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=", "expiry": "2027-03-10" },
     { "hash": "device_hash_11223klmno", "expiry": "2026-06-01" }
   ],
   
@@ -12,6 +11,7 @@
   ],
   
   "MAINTENANCE": [
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" },
     { "hash": "tester1_device_hash" }
   ],
   
