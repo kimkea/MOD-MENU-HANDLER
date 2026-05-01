@@ -7,11 +7,9 @@
   ],
   
   "PRIVATE": [
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }
   ],
   
   "MAINTENANCE": [
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" },
     { "hash": "tester1_device_hash" }
   ],
   
