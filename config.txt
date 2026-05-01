@@ -1,0 +1,53 @@
+{
+  "menu_title": "KEAPATOOTIE LOADER",
+  
+  "DELUXE": [
+    { "hash": "device_hash_12345abcde", "expiry": "2027-03-10" },
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }, //kea
+    { "hash": "device_hash_11223klmno", "expiry": "2026-06-01" }
+  ],
+  
+  "PRIVATE": [
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }, //kea
+  ],
+  
+  "MAINTENANCE": [
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }, //kea
+    { "hash": "tester1_device_hash" }
+  ],
+  
+  "systems": [
+    {
+      "id": "PRIVATE",
+      "name": "KEA PRIVATE",
+      "status": "MAINTENANCE",
+      "lib_name": "librealloc.so",
+      "download_url": "https://realest.cfd/SanctuaryLib/librealloc.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "id": "DELUXE",
+      "name": "KEA DELUXE [NO/SKINS]",
+      "status": "ONLINE",
+      "lib_name": "libliar.so",
+      "download_url": "https://realest.cfd/SanctuaryLib/libliar.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "id": "DELUXE",
+      "name": "KEA DELUXE [W/SKINS]",
+      "status": "MAINTENANCE",
+      "lib_name": "libempathy.so",
+      "download_url": "https://realest.cfd/SanctuaryLib/libempathy.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    },
+    {
+      "id": "PUBLIC",
+      "name": "KEA FREE [OPTIMIZED]",
+      "status": "ONLINE",
+      "lib_name": "libsarcasm.so",
+      "download_url": "https://realest.cfd/SanctuaryLib/libsarcasm.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
