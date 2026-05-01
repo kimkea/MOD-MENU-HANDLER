@@ -3,16 +3,16 @@
   
   "DELUXE": [
     { "hash": "device_hash_12345abcde", "expiry": "2027-03-10" },
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }, //kea
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" },
     { "hash": "device_hash_11223klmno", "expiry": "2026-06-01" }
   ],
   
   "PRIVATE": [
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" } //kea
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }
   ],
   
   "MAINTENANCE": [
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }, //kea
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" },
     { "hash": "tester1_device_hash" }
   ],
   
