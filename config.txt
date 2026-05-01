@@ -8,7 +8,7 @@
   ],
   
   "PRIVATE": [
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" }, //kea
+    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=" } //kea
   ],
   
   "MAINTENANCE": [
