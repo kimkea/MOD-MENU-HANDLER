@@ -27,7 +27,7 @@
       "name": "KEA DELUXE",
       "status": "ONLINE",
       "lib_name": "libliar.so",
-      "download_url": "https://am0x.x10.mx/Am0xLib/libliar.so",
+      "download_url": "https://dimitrimathurin.online/OnlineLibJustine/libliar.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
