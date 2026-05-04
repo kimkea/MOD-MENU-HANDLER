@@ -11,7 +11,7 @@
   ],
   
   "MAINTENANCE": [
-    { "hash": "tester1_device_hash" }
+    { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=" }
   ],
   
   "systems": [
