@@ -27,7 +27,7 @@
       "name": "KEA DELUXE [NO/SKINS]",
       "status": "ONLINE",
       "lib_name": "libliar.so",
-      "download_url": "https://realest.cfd/SanctuaryLib/libliar.so",
+      "download_url": "https://freemiump.tranlongdo2506.workers.dev/OnlineLib/keapatootie/Sanctuary/librealloc.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
