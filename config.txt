@@ -2,7 +2,7 @@
   "menu_title": "KEAPATOOTIE LOADER",
   
   "DELUXE": [
-    { "hash": "EvlHardPh4SoE0LNe7mpL6Nvh+Tqs92K7ZGqK37YntA=", "expiry": "2027-03-10" },
+    { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=", "expiry": "2027-03-10" },
     { "hash": "device_hash_11223klmno", "expiry": "2026-06-01" }
   ],
   
