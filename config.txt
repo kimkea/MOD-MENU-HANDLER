@@ -3,7 +3,8 @@
   
   "DELUXE": [
     { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=", "expiry": "2027-03-10" },
-    { "hash": "mLLjxwB9BLcKMOMgEZYGEZfbZfrrcLlYmrzdJTAq9Qg=", "expiry": "2027-03-10" }
+    { "hash": "mLLjxwB9BLcKMOMgEZYGEZfbZfrrcLlYmrzdJTAq9Qg=", "expiry": "2027-03-10" },
+    { "hash": "NDEpxUcuDNFHGf65u4hsk5q3Q3vagvNkunMPpZ1IcTw=", "expiry": "2026-05-10" },
   ],
   
   "PRIVATE": [
