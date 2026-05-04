@@ -24,7 +24,7 @@
     },
     {
       "id": "DELUXE",
-      "name": "KEA DELUXE [NO/SKINS]",
+      "name": "KEA DELUXE",
       "status": "ONLINE",
       "lib_name": "libliar.so",
       "download_url": "https://am0x.x10.mx/Am0xLib/libliar.so",
