@@ -33,7 +33,7 @@
     {
       "id": "DELUXE",
       "name": "KEA DELUXE [W/SKINS]",
-      "status": "MAINTENANCE",
+      "status": "OFFLINE",
       "lib_name": "libempathy.so",
       "download_url": "https://realest.cfd/SanctuaryLib/libempathy.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
@@ -41,7 +41,7 @@
     {
       "id": "PUBLIC",
       "name": "KEA FREE [OPTIMIZED]",
-      "status": "ONLINE",
+      "status": "OFFLINE",
       "lib_name": "libsarcasm.so",
       "download_url": "https://realest.cfd/SanctuaryLib/libsarcasm.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
