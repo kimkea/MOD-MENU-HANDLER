@@ -2,9 +2,12 @@
   "menu_title": "KEAPATOOTIE LOADER",
   
   "DELUXE": [
-    { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=", "expiry": "2027-03-10", "name": "Kea" },
-    { "hash": "mLLjxwB9BLcKMOMgEZYGEZfbZfrrcLlYmrzdJTAq9Qg=", "expiry": "2027-03-10" },
-    { "hash": "NDEpxUcuDNFHGf65u4hsk5q3Q3vagvNkunMPpZ1IcTw=", "expiry": "2026-05-10" },
+    { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=", "expiry": "2030-03-10", "name": "Kea" },
+    { "hash": "mLLjxwB9BLcKMOMgEZYGEZfbZfrrcLlYmrzdJTAq9Qg=", "expiry": "2030-03-10", "name": "LIFETIME-Frxnz" },
+    { "hash": "NDEpxUcuDNFHGf65u4hsk5q3Q3vagvNkunMPpZ1IcTw=", "expiry": "2026-05-10", "name": "Ren" },
+    { "hash": "ABF23To08fPb6VJaafnwuP9nw2L8MWKb2ZeaHtr5278=", "expiry": "2030-05-10", "name": "LIFETIME-YOUTH" },
+    { "hash": "UfaUBEmEKjdXTGY28klKbbvOW+mTD6u/1SBA96xTqOA=", "expiry": "2030-05-10", "name": "LIFETIME-DANDAN" },
+    { "hash": "/2eDWE2jlYWO6sPS13nq/Rwyi29MATXB/v9ed5Uwnoo=", "expiry": "2026-05-10", "name": "MAALY" },
   ],
   
   "PRIVATE": [
