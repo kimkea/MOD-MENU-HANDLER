@@ -10,6 +10,8 @@
     { "hash": "/2eDWE2jlYWO6sPS13nq/Rwyi29MATXB/v9ed5Uwnoo=", "expiry": "2026-05-10", "name": "MAALY" },
     { "hash": "GtEDhrn3HdQ/D8oJhdCzdmoaQZGOFruzE3EkZtzQG94=", "expiry": "2030-05-10", "name": "LIFETIME-AESEL" },
     { "hash": "ENF4uOZikYJDr03fZcLq7/+Udmo77FOcgTfPOvAspXI=", "expiry": "2030-05-10", "name": "LIFETIME-Janonymous" },
+    { "hash": "aLwbN7OeaFoVhypfoufK3CDZPaP9pIkb9C5ws5qXv28=", "expiry": "2030-05-10", "name": "LIFETIME-KENZO" },
+    { "hash": "", "expiry": "2030-08-10", "name": "Justine Si" },
   ],
   
   "PRIVATE": [
