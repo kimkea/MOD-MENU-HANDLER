@@ -4,15 +4,15 @@
   "DELUXE": [
     { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=", "expiry": "2030-03-10", "name": "Kea" },
     { "hash": "mLLjxwB9BLcKMOMgEZYGEZfbZfrrcLlYmrzdJTAq9Qg=", "expiry": "2030-03-10", "name": "LIFETIME-Frxnz" },
-    { "hash": "NDEpxUcuDNFHGf65u4hsk5q3Q3vagvNkunMPpZ1IcTw=", "expiry": "2026-05-10", "name": "Ren" },
+    { "hash": "NDEpxUcuDNFHGf65u4hsk5q3Q3vagvNkunMPpZ1IcTw=", "expiry": "2026-07-10", "name": "Ren" },
     { "hash": "ABF23To08fPb6VJaafnwuP9nw2L8MWKb2ZeaHtr5278=", "expiry": "2030-05-10", "name": "LIFETIME-YOUTH" },
     { "hash": "UfaUBEmEKjdXTGY28klKbbvOW+mTD6u/1SBA96xTqOA=", "expiry": "2030-05-10", "name": "LIFETIME-DANDAN" },
-    { "hash": "/2eDWE2jlYWO6sPS13nq/Rwyi29MATXB/v9ed5Uwnoo=", "expiry": "2026-05-10", "name": "MAALY" },
+    { "hash": "/2eDWE2jlYWO6sPS13nq/Rwyi29MATXB/v9ed5Uwnoo=", "expiry": "2026-07-10", "name": "MAALY" },
     { "hash": "GtEDhrn3HdQ/D8oJhdCzdmoaQZGOFruzE3EkZtzQG94=", "expiry": "2030-05-10", "name": "LIFETIME-AESEL" },
     { "hash": "ENF4uOZikYJDr03fZcLq7/+Udmo77FOcgTfPOvAspXI=", "expiry": "2030-05-10", "name": "LIFETIME-Janonymous" },
-    { "hash": "aLwbN7OeaFoVhypfoufK3CDZPaP9pIkb9C5ws5qXv28=", "expiry": "2030-05-10", "name": "LIFETIME-KENZO" },
-    { "hash": "2QC2YOI9THyK3ufD7KXZk1BgUczTT7XERC25mHCL0LY=", "expiry": "2030-08-10", "name": "Justine Si" },
-    { "hash": "/5qY4H9CUgHKAdabyZn6gD9QRywL8rdVLZL7nI6HMLg=", "expiry": "2026-05-10", "name": "Kareyn" },
+    { "hash": "aLwbN7OeaFoVhypfoufK3CDZPaP9pIkb9C5ws5qXv28=", "expiry": "2030-08-10", "name": "LIFETIME-KENZO" },
+    { "hash": "2QC2YOI9THyK3ufD7KXZk1BgUczTT7XERC25mHCL0LY=", "expiry": "2026-08-10", "name": "Justine Si" },
+    { "hash": "/5qY4H9CUgHKAdabyZn6gD9QRywL8rdVLZL7nI6HMLg=", "expiry": "2026-07-10", "name": "Kareyn" },
   ],
   
   "PRIVATE": [
