@@ -4,6 +4,7 @@
   "DELUXE": [
     { "hash": "do/GQuJSQfhClWVDR++Xpp7dlOl9EVkz++VA7GyPQrI=", "expiry": "2030-03-10", "name": "Kea" },
     { "hash": "mLLjxwB9BLcKMOMgEZYGEZfbZfrrcLlYmrzdJTAq9Qg=", "expiry": "2030-03-10", "name": "LIFETIME-Frxnz" },
+    { "hash": "5E33kUE05ZYq9xirJ2hqHZUNJtupOEklCemZLEr4zEQ=", "expiry": "2030-03-10", "name": "LIFETIME-Frxnz" },
     { "hash": "NDEpxUcuDNFHGf65u4hsk5q3Q3vagvNkunMPpZ1IcTw=", "expiry": "2026-07-10", "name": "Ren" },
     { "hash": "ABF23To08fPb6VJaafnwuP9nw2L8MWKb2ZeaHtr5278=", "expiry": "2030-05-10", "name": "LIFETIME-YOUTH" },
     { "hash": "UfaUBEmEKjdXTGY28klKbbvOW+mTD6u/1SBA96xTqOA=", "expiry": "2030-05-10", "name": "LIFETIME-DANDAN" },
