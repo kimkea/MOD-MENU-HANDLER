@@ -28,8 +28,8 @@
       "id": "PRIVATE",
       "name": "KEA PRIVATE",
       "status": "MAINTENANCE",
-      "lib_name": "librealloc.so",
-      "download_url": "https://realest.cfd/SanctuaryLib/librealloc.so",
+      "lib_name": "libprotocol.so",
+      "download_url": "https://kea.x10.mx/SanctuaryLib/libprotocol.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
